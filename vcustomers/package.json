@@ -2,7 +2,7 @@
   "name": "vcustomers",
   "version": "1.0.0",
   "description": "Simple customer manager",
-  "author": "Brad Traversy <me@bradtraversy>",
+  "author": "henry chang 張亨利",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
