@@ -7,3 +7,4 @@
     step05 進入vcustomers下npm install
     step06 npm run dev
 ```
+![image](https://github.com/a68727739/vue_slimphp_crud/blob/master/demo01.gif)
